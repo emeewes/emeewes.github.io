@@ -1,2 +1,8 @@
 name: Eric Meewes
 permalink: /blog/:year/:month/:day/:title
+
+description: This is a sample blog
+
+author: Eric Meewes
+
+author_email: emeewes@gmail.com
